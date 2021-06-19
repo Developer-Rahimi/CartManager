@@ -1,0 +1,3 @@
+include ':app:CartManager'
+include ':app'
+rootProject.name = "CartManagerTest"
